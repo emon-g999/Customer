@@ -298,6 +298,8 @@ https://cdn3.pishow.tv/live/281/master.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="NEWS", JAMUNA TV  
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS", ABP ANANDA 
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS", ZEE 24 GHANTA
