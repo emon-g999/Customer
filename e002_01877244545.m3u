@@ -101,6 +101,57 @@ https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.co
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png" group-title="EXCLUSIVE", TOFFEE SPORTS
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
 
+#EXTINF:-1 tvg-id="21" tvg-name="EKUSHEY TV HD" tvg-logo="https://i.ibb.co.com/zPFbF67/20240826-230349.png" group-title="ENTERTAINMENT CHANNEL",EKUSHEY TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="RTV HD" tvg-logo="https://i.ibb.co.com/LCj4CTF/mobile-logo-401499001655891091.png" group-title="ENTERTAINMENT CHANNEL",RTV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="ATN BANGLA" tvg-logo="https://i.ibb.co.com/0jrRygh/mobile-logo-483871001656610198.png" group-title="ENTERTAINMENT CHANNEL",ATN BANGLA
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="BANGLA VISION" tvg-logo="https://i.ibb.co.com/2ZJMxgJ/mobile-logo-519481001656610377.png" group-title="ENTERTAINMENT CHANNEL",BANGLA VISION 
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="BOISHAKHI TV" tvg-logo="https://i.ibb.co.com/kmcqnZ3/mobile-logo-341242001655891063.png" group-title="ENTERTAINMENT CHANNEL",BOISHAKHI TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="ATN NEWS" tvg-logo="https://i.ibb.co.com/tDDz45Z/mobile-logo-554709001657185722.png" group-title="ENTERTAINMENT CHANNEL",ATN NEWS
+
+#EXTINF:-1 tvg-id="27" tvg-name="MY TV" tvg-logo="https://i.ibb.co.com/P1dc91k/mobile-logo-897303001655891103.png" group-title="ENTERTAINMENT CHANNEL",MY TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="https://i.ibb.co.com/G0xHGsN/mobile-logo-694865001655890816.png" group-title="ENTERTAINMENT CHANNEL",CHANNEL I
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="MOHONA TV" tvg-logo="https://i.ibb.co.com/8jC1FNf/mobile-logo-784215001656610543.png" group-title="ENTERTAINMENT CHANNEL",MOHONA TV
+
+#EXTINF:-1 tvg-id="29" tvg-name="BIJOY TV" tvg-logo="https://i.ibb.co.com/n8qgVY0/mobile-logo-179345001655891258.png" group-title="ENTERTAINMENT CHANNEL",BIJOY TV
+
+#EXTINF:-1 tvg-id="30" tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co.com/3Yn0tsw/somoy-tv.png" group-title="ENTERTAINMENT CHANNEL",SOMOY TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="INDEPENDENT TV" tvg-logo="https://i.ibb.co.com/9H7HBTW/mobile-logo-819689001655890845.png" group-title="ENTERTAINMENT CHANNEL",INDEPENDENT TV
+
+#EXTINF:-1 tvg-id="32" tvg-name="MAASRANGA TV" tvg-logo="https://i.ibb.co.com/g4jPX7R/20240826-230429.png" group-title="ENTERTAINMENT CHANNEL",MAASRANGA TV
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="CHANNEL 9" tvg-logo="https://i.ibb.co.com/GtV5NPv/mobile-logo-363996001656610763.png" group-title="ENTERTAINMENT CHANNEL",CHANNEL 9
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="CHANNEL 24" tvg-logo="https://i.ibb.co.com/ZVB5KXy/channel-24.png" group-title="ENTERTAINMENT CHANNEL",CHANNEL 24
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="ASIAN TV" tvg-logo="https://i.ibb.co.com/mCx4vP4/mobile-logo-913146001673185595.png" group-title="ENTERTAINMENT CHANNEL",ASIAN TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="SATV" tvg-logo="" group-title="ENTERTAINMENT CHANNEL",SATV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="JAMUNA TV" tvg-logo="https://i.ibb.co.com/J3XPLDV/mobile-logo-222968001673182917.png" group-title="ENTERTAINMENT CHANNEL",JAMUNA TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="DEEPTO TV" tvg-logo="https://i.ibb.co.com/kqF2kdy/20240826-230650.png" group-title="ENTERTAINMENT CHANNEL",DEEPTO TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="DBC NEWS" tvg-logo="https://i.ibb.co.com/7NkBS84/mobile-logo-946452001655891077.png" group-title="ENTERTAINMENT CHANNEL",DBC NEWS
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="NEWS 24" tvg-logo="https://i.ibb.co.com/kyxby2Q/20240826-230739.png" group-title="ENTERTAINMENT CHANNEL",NEWS 24
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="BANGLA TV" tvg-logo="https://i.ibb.co.com/cvCwCF1/mobile-logo-453885001655891270.png" group-title="ENTERTAINMENT CHANNEL",BANGLA TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="ANANDA TV" tvg-logo="https://i.ibb.co.com/sQy53Dq/mobile-logo-317599001655891632.png" group-title="ENTERTAINMENT CHANNEL",ANANDA TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="MOVIE BANGLA" tvg-logo="https://i.ibb.co.com/LYf52qB/mobile-logo-671378001663674667.png" group-title="ENTERTAINMENT CHANNEL",MOVIE BANGLA
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="NEXUS TELEVISION" tvg-logo="https://i.ibb.co.com/34WswS6/20240826-230804.png" group-title="ENTERTAINMENT CHANNEL",NEXUS TELEVISION 
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGLADESH", BTV HD 
 https://livess.ncare.live/live-orgin/Btv-g.stream/playlist.m3u8
 
